@@ -3,4 +3,4 @@
 
 * The hera directory holds a project to use python to submit a few test workflows
 
-* The root directory holds deployment.yaml, which is just a basic deployment from the kubernetes documentation used for testing
+* The root directory holds basic deployment and service definitions from the kubernetes documentation used for testing
